@@ -1,0 +1,35 @@
+.heading {
+    background-color:darkviolet;
+    padding:20px;
+    color:black;
+    font-size:xx-large;
+    border-radius: 30px;
+    font-family: 'Lobster', cursive;
+}
+#camera {
+  width:360px;
+  height:250px;
+  padding:0px;
+  border:3px solid black;
+}
+#resultImage {
+  border:3px solid black;  
+}
+.heading:hover{
+    background-color: black;
+    color: white;
+}
+#clickBtn:hover { 
+   opacity: 0.6; 
+}
+#identifyBtn:hover { 
+  opacity: 0.6; 
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
